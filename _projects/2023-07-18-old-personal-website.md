@@ -7,7 +7,7 @@ categories: jekyll update
 
 See my old personal website <a href="https://cullena20.github.io/OldPersonalWebsite/" target="_blank"> here</a>! See the Github Repo <a href="https://github.com/cullena20/OldPersonalWebsite" target="_blank"> here</a>.
 
-![Website Screenshot](/assets/images/OldPersonalWebsite.png)
+![Website Screenshot](/assets/images/projects/OldPersonalWebsite.png)
 
 <!-- excerpt-end -->
 &nbsp;

@@ -7,7 +7,7 @@ categories: jekyll update
 Enter a subreddit and perform sentiment analysis. Returns the percentage of positive, negative, and neutral headlines in a subreddit. Also displays the five most positive and the five most negative subreddits. See the Github Repo <a href="https://github.com/cullena20/RedditSentimentWebsite" target="_blank"> here</a>. See the Colab Notebook <a href="https://colab.research.google.com/github/cullena20/RedditSentiment/blob/main/RedditSentiment.ipynb"> here</a>.
 &nbsp;
 
-![](/assets/images/RedditSentiment.jpeg)
+![Reddit Sentiment Screenshot](/assets/images/projects/RedditSentiment.jpeg)
 
 <!-- excerpt-end -->
 &nbsp;

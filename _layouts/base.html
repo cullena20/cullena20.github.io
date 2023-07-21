@@ -1,7 +1,13 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
-
+  {% seo %}
   {%- include head.html -%}
+
+  <!-- Google Analytics tracking ID -->
+  {% if jekyll.environment == 'production' %}
+  {% include analytics.html %}
+  {% endif %}
+  <link rel="shortcut icon" type="image/png" href="assets/images/logo.png">
 
   <body>
 

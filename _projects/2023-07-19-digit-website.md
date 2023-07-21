@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 Use this website to draw digits and to have different ML models predict what they are. See the Github Repo <a href="https://github.com/cullena20/DigitRecognizerWebsite" target="_blank"> here</a>.
 
-![Website Screenshot](/assets/images/DigitWebsite.png)
+![Digit Website Screenshot](/assets/images/projects/DigitWebsite.png)
 
 <!-- excerpt-end -->
 
