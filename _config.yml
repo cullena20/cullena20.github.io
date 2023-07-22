@@ -20,14 +20,15 @@
 
 title: Cullen Anderson
 author: Cullen Anderson
-tagline: Blog posts and projects about computer science, artificial intelligence, and math.
+tagline: CS, AI, & Math
 email: cyanderson@umass.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Cullen Anderson's website, blog, and personal projects.
+  Cullen Anderson's website: blog and personal projects.
 
-  I am a second year Computer Science and Pure Math student at the University Of Massachusetts Amherst.
+  I am a second year Computer Science and Pure Math student at the University Of Massachusetts Amherst (UMass Amherst)
 
-  I am currently working on Robust Statistics at the University Of Utah with Professor Jeff Phillips and PhD candidate Meysam Alishahi. During Spring 2023, I worked at the Initiative For Digital Public Infrastructure under Professor Ethan Zuckerman and PhD candidate Spencer Lane.
+  I am currently working on Robust Statistics at the University Of Utah with Professor Jeff Phillips and PhD candidate Meysam Alishahi. 
+  I worked at the Initiative For Digital Public Infrastructure under Professor Ethan Zuckerman and PhD candidate Spencer Lane.
 
   I am originally from Queens, NY and graduated from Stuyvesant High School in 2022.
 baseurl: "" # the subpath of your site, e.g. /blog
